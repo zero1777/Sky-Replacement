@@ -14,6 +14,6 @@ Our group wants to reproduce the result using traditional math formulas instead 
 
 ## Results
 
-![](TermProject/imgs/result1.png)
-![](TermProject/imgs/result2.png)
-![](TermProject/imgs/result3.png)
+![](imgs/result1.png)
+![](imgs/result2.png)
+![](imgs/result3.png)
