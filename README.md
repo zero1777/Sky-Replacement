@@ -13,6 +13,7 @@ Our group wants to reproduce the result using traditional math formulas instead 
 5. Boundary smoothing  
 
 ## Results
+We produce some great results in landscape view style.
 
 ![](imgs/result1.png)
 ![](imgs/result2.png)
